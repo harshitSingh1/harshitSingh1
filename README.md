@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<h3 align="center">Hi 👋, I'm Harshit Singh <Br></Br>A passionate Fullstack developer from India</h3>
+<h3 align="left">Hi 👋, I'm Harshit Singh <Br></Br>A passionate Fullstack developer from India</h3>
 
 
 ## 🌐 Socials:
