@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-B.Tech 4th Year 
+<h3 align="center">Hi 👋, I'm Harshit Singh <Br></Br>A passionate Fullstack developer from India</h3>
 
 
 ## 🌐 Socials:
