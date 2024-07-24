@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <h3 align="left">Hi 👋, I'm Harshit Singh <Br></Br>A passionate Fullstack developer from India</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh1" alt="harshitsingh1" /></a> </p>
+
+- 🌱 I’m currently learning **Web development**
+
+- 📝 I regularly write articles on [https://medium.com/@sharshitsingh007](https://medium.com/@sharshitsingh007)
+
+- 📫 How to reach me **sharshitsingh007@gmail.com**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-singh-06834221b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sharshitsingh007) 
 
 # 💻 Tech Stack:
