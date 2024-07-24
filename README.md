@@ -14,13 +14,18 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<h3 align="left">Hi 👋, I'm Harshit Singh</h3>
-<h3 align="left">A passionate Fullstack developer from India</h3>
-- 🌱 I’m currently learning **Web development**
+<h3 align="left">Hi 👋, I'm Harshit Singh - A passionate Fullstack developer from India</h3>
+- 🔭 I’m currently working on [MyVision](https://github.com/harshitSingh1/MyVision)
+
+- 🌱 I’m currently learning **NodeJS**
+
+- 👨‍💻 All of my projects are available at [https://github.com/harshitSingh1](https://github.com/harshitSingh1)
 
 - 📝 I regularly write articles on [https://medium.com/@sharshitsingh007](https://medium.com/@sharshitsingh007)
 
 - 📫 How to reach me **sharshitsingh007@gmail.com**
+
+- ⚡ Fun fact **I'm a certified cybersecurity enthusiast.**
 
 
 # 🌐 Socials:
