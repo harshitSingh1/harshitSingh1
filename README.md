@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<h3 align="left">Hi 👋, I'm Harshit Singh <Br></Br>A passionate Fullstack developer from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitsingh1" alt="harshitsingh1" /></a> </p>
-
+<h3 align="left">Hi 👋, I'm Harshit Singh</h3>
+<h3 align="left">A passionate Fullstack developer from India</h3>
 - 🌱 I’m currently learning **Web development**
 
 - 📝 I regularly write articles on [https://medium.com/@sharshitsingh007](https://medium.com/@sharshitsingh007)
