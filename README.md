@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <h3 align="left">Hi 👋, I'm Harshit Singh - A passionate Fullstack developer from India</h3>
+
 - 🔭 I’m currently working on [MyVision](https://github.com/harshitSingh1/MyVision)
 
 - 🌱 I’m currently learning **NodeJS**
