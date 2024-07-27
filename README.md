@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <h3 align="left">Hi 👋, I'm Harshit Singh - A passionate Fullstack developer from India</h3>
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"
+/>
 
 - 🔭 I’m currently working on [MyVision](https://github.com/harshitSingh1/MyVision)
 
