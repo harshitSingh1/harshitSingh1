@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **sharshitsingh007@gmail.com**
 
 - ⚡ Fun fact **I'm a certified cybersecurity enthusiast.**
-
+<hr/>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-singh-06834221b)
