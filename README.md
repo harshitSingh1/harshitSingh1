@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img
   align="right"
   alt="Coding"
-  width="350"
+  width="300"
   src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"
 />
 
