@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 
 ---
 ![](https://visitcount.itsvg.in/api?id=harshitSingh1&icon=5&color=0)
