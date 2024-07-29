@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I'm a certified cybersecurity enthusiast.**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1700&color=AC33FF&background=000000&multiline=true&width=750&height=240&lines=while(true);..+brain.init();..+if+(world.contains(open_source));....++s+%3D+open_source.login(HarshitSingh1);....+s.explore();....+s.learn();....+s.contribute();....+if+(s.hasTime());........+s.build(projects);........+s.solve(problems);........+s.improve(skills);....+s.share(knowledge);"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1700&color=00FF0&background=000000&multiline=true&width=750&height=260&lines=while(true);..+brain.init();..+if+(world.contains(open_source));....++s+%3D+open_source.login(HarshitSingh1);....+s.explore();....+s.learn();....+s.contribute();....+if+(s.hasTime());........+s.build(projects);........+s.solve(problems);........+s.improve(skills);....+s.share(knowledge);"/>
 </p>
 
 <hr/>
