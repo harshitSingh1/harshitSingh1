@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<div align="center">
-  <p style="margin: 0px; font-family: 'Source Code Pro', monospace; font-size: 16px; display: flex; align-items: center;">
-    Hi, Harshit Singh Here 🖐️,
+<div align="center"><h3>
+    👋 Hi, I'm Harshit Singh!,</h3>
     <picture style="margin-top: 20px;">
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
       <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
     </picture>
-  </p>
 </div>
 
 
