@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<h3 align="left">Hi 👋, I'm Harshit Singh - A passionate Fullstack developer from India</h3>
+<div align="center">
+  <img alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&lines=HI!+Harshit+Singh+Here🖐️.;I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;"/>
+</div>
+
 
 - 🔭 I’m currently working on [MyVision](https://github.com/harshitSingh1/MyVision)
 
