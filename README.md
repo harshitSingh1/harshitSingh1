@@ -27,9 +27,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me **sharshitsingh007@gmail.com**
 
 - ⚡ Fun fact **I'm a certified cybersecurity enthusiast.**
-<hr/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=00FF00&background=000000&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(harshitSingh1);....+s.explore();....+s.learn();....+s.contribute()"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1700&color=AC33FF&background=000000&multiline=true&width=750&height=240&lines=while(true);..+brain.init();..+if+(world.contains(open_source));....++s+%3D+open_source.login(HarshitSingh1);....+s.explore();....+s.learn();....+s.contribute();....+if+(s.hasTime());........+s.build(projects);........+s.solve(problems);........+s.improve(skills);....+s.share(knowledge);"/>
+</p>
+
+<hr/>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-singh-06834221b)
