@@ -21,17 +21,6 @@ Here are some ideas to get you started:
   </picture>
 </div>
 
-
-<script>
-  const typingSvg = document.getElementById('typing-svg');
-  const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  if (prefersDarkScheme) {
-    typingSvg.src = "https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=HI!+Harshit+Singh+Here🖐️.;I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;";
-  }
-</script>
-
-
-
 - 🔭 I’m currently working on [MyVision](https://github.com/harshitSingh1/MyVision)
 
 - 🌱 I’m currently learning **NodeJS**
