@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=harshitSingh1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=harshitSingh1&locale=en&mode=daily&theme=gruvbox&hide_border=false alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitSingh1&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=aura&hide_border=false" alt="languages graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitSingh1&layout=compact&langs_count=10&theme=gruvbox" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitSingh1&layout=compact&langs_count=10&theme=gruvbox" width="50%"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitSingh1&theme=gruvbox&hide_border=false&layout=compact" width="100%"/>
 </div>
 
