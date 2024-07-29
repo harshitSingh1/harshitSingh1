@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <div align="center">
-  <img alt="GIF" id="typing-svg" src="https://readme-typing-svg.herokuapp.com?color=000000&lines=HI!+Harshit+Singh+Here🖐️.;I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=HI!+Harshit+Singh+Here🖐️.;I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
+    <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=HI!+Harshit+Singh+Here🖐️.;I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
+  </picture>
 </div>
+
 
 <script>
   const typingSvg = document.getElementById('typing-svg');
