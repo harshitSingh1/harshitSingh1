@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I'm a certified cybersecurity enthusiast.**
 <hr/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&color=00FF00&background=000000&multiline=true&width=700&height=120&lines=while(true)+{..+brain.init();..+if+(world.contains(open_source))+{....+user+%3D+open_source.login(harshitSingh1);....+user.explore();....+user.learn();....+user.contribute();....+}}"/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=2000&color=00FF00&background=000000&multiline=true&width=700&height=120&lines=while(true)+{..+brain.init();..+if+(world.contains(open_source))+{....+user+%3D+open_source.login(harshitSingh1);....+user.explore();....+user.learn();....+user.contribute();....+}}"/>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-singh-06834221b)
