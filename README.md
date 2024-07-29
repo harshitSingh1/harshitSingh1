@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <div align="center">
-  <p style="font-family: 'Source Code Pro', monospace; font-size: 16px; margin: 0;">
-    Hi, Harshit Singh Here 🖐️, 
-    <span>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
-        <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
-        </picture>
-    </span>
+  <p style="display: flex; align-items: center; font-family: 'Source Code Pro', monospace; font-size: 16px; margin: 0;">
+    Hi, Harshit Singh Here 🖐️,
+    <picture style="margin-left: 10px;">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
+      <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
+    </picture>
   </p>
 </div>
+
 
 
 
