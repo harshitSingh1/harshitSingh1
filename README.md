@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<h2 align ="right">Hi, Harshit Singh Here 🖐️.</h2>
-<div align="right">
+<h3 align="left" style="display: inline-block;">Hi, Harshit Singh Here 🖐️.</h3>
+<div align="left" style="display: inline-block; vertical-align: middle;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
     <img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=I+am+a+Passionate+Technologist💻.;I+am+a+4th+Year+B.Tech+CS+Student🎓.;I+am+a+Cyber+Security+Enthusiast🔐.;I+am+a+Competitive+Programmer📊.;I+am+an+Open+Source+Contributor🌐.;I+am+a+Network+Security+Specialist🌐.;I+am+constantly+learning+and+improving📚.;">
