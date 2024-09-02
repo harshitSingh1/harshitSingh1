@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshitSingh1](https://github.com/harshitSingh1)
 
-- 📝 I regularly write articles on [https://medium.com/@sharshitsingh007](https://medium.com/@sharshitsingh007)
+- 📝 check out my articles on [https://medium.com/@sharshitsingh007](https://medium.com/@sharshitsingh007)
 
 - 📫 How to reach me **sharshitsingh007@gmail.com**
 
