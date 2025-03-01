@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 
-- 🔭 I’m currently working on [MyVision](https://github.com/harshitSingh1/MyVision)
+- 🔭 I’m currently working on "GenConnect"
 
 - 🌱 I’m currently learning **NodeJS**
 
