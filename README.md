@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 </div>
 
 
+<!-- 
 - 🔭 I’m currently working on "GenConnect"
 
 - 🌱 I’m currently learning **NodeJS**
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 - 📝 check out my articles on [https://medium.com/@sharshitsingh007](https://medium.com/@sharshitsingh007)
 
 - 📫 How to reach me **sharshitsingh007@gmail.com**
+-->
 
 
 <p align="center">
