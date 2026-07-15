@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="12" viewBox="0 0 800 12" role="img" aria-label="Section divider">
-  <line x1="0" y1="6" x2="340" y2="6" stroke="#e5e5e5" stroke-width="1"/>
-  <line x1="360" y1="6" x2="440" y2="6" stroke="#3b6fa8" stroke-width="1"/>
-  <line x1="460" y1="6" x2="800" y2="6" stroke="#e5e5e5" stroke-width="1"/>
-  <rect x="392" y="2" width="8" height="8" fill="none" stroke="#3b6fa8" stroke-width="1"/>
-  <line x1="388" y1="6" x2="404" y2="6" stroke="#3b6fa8" stroke-width="0.5"/>
-  <line x1="396" y1="2" x2="396" y2="10" stroke="#3b6fa8" stroke-width="0.5"/>
-</svg>
