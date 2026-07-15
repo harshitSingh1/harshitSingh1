@@ -1,376 +1,410 @@
-<!-- =======================================================
-                    DYNAMIC HERO SECTION
-======================================================= -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Harshit%20Singh&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20International%20Hackathon%20Winner&descAlignY=60&fontColor=ffffff&descColor=00E5FF"/>
+<!-- ENGINEERING SYSTEM SPECIFICATION — Harshit Singh -->
+<!-- Design system: prompts/design-system.md · Rev 3.0 -->
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Harshit+Singh!;%F0%9F%A4%96+Building+AI+Products+That+Matter;%F0%9F%8F%86+9x+International+Hackathon+Winner;%F0%9F%92%BB+Full+Stack+%2B+AI+Developer;%F0%9F%94%90+Cyber+Security+Enthusiast;%F0%9F%8C%90+Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <img src="assets/hero-spec.svg" alt="Engineering System Specification — Harshit Singh, AI Engineer" width="100%"/>
+</p>
 
-  <br/>
-  <br/>
+<img src="assets/divider.svg" alt="" width="100%"/>
 
-  <p>
-    <a href="https://linkedin.com/in/harshit-singh-06834221b">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:sharshitsingh007@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.leetcode.com/sharshitsingh007">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-    </a>
-    <a href="https://www.codechef.com/users/harshit_singh1">
-      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-    </a>
-    <a href="https://www.hackerrank.com/sharshitsingh007">
-      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-    </a>
-    <a href="https://auth.geeksforgeeks.org/user/e21cse2s7w">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-    </a>
-    <a href="https://medium.com/@sharshitsingh007">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-    </a>
-  </p>
-
-  <br/>
-
-  <!-- Career Stats -->
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h3>🏆</h3>
-        <b>9+</b><br/>
-        <sub>International<br/>Hackathon Wins</sub>
-      </td>
-      <td align="center" width="25%">
-        <h3>🤖</h3>
-        <b>20+</b><br/>
-        <sub>AI Products<br/>Built</sub>
-      </td>
-      <td align="center" width="25%">
-        <h3>💻</h3>
-        <b>Full Stack</b><br/>
-        <sub>AI + Web<br/>Developer</sub>
-      </td>
-      <td align="center" width="25%">
-        <h3>🌍</h3>
-        <b>Open Source</b><br/>
-        <sub>Community<br/>Contributor</sub>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  > *"I build AI-powered products that solve real-world problems across healthcare, education, accessibility, and civic technology."*
-
-</div>
-
----
-
-<!-- =======================================================
-               🏆 HACKATHON SHOWCASE (STAR FEATURED)
-======================================================= -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  &nbsp; Featured Hackathon Wins &nbsp;
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-</h2>
-
-<details open>
-<summary><b>🌟 Star Projects (Click to collapse)</b></summary>
 <br/>
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+<sub>SECTION 01</sub>
 
-### 🥇 First30.ai
-**StartupMed 2026**
+#### Award Winning Products
 
-<img src="https://img.shields.io/badge/🥇_WINNER-success?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" />
+<sub>Hackathon catalog — compact engineering records. Winners first.</sub>
 
-👥 **1,203 Participants**
+<br/>
 
-AI emergency assistant guiding people during the critical first 30 minutes before professional help arrives. Multi-language voice guidance, location-based services, emergency summaries.
-
-**Tech:** `React` `TypeScript` `Supabase` `ElevenLabs`
-
-<p>
-<a href="https://github.com/harshitSingh1/First-30"><img src="https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://first-30-aid.lovable.app/"><img src="https://img.shields.io/badge/🌐_Live-00C2FF?style=flat-square&logo=vercel"/></a>
-<a href="https://youtu.be/dxetHSCxAAc"><img src="https://img.shields.io/badge/🎥_Demo-FF0000?style=flat-square&logo=youtube"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🥇 CodeMentor
-**Next Byte Hacks 2026**
-
-<img src="https://img.shields.io/badge/🥇_WINNER-success?style=flat-square&logo=leetcode&logoColor=white&labelColor=0D1117" />
-
-👥 **647 Participants**
-
-Chrome extension that mentors competitive programmers using Socratic AI — guides without spoiling, across LeetCode, Codeforces, CodeChef & HackerRank.
-
-**Tech:** `JavaScript` `Gemini AI` `Chrome Extension`
-
-<p>
-<a href="https://github.com/harshitSingh1/CodeMentor"><img src="https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://vimeo.com/1167086369"><img src="https://img.shields.io/badge/🎥_Demo-1AB7EA?style=flat-square&logo=vimeo"/></a>
-<a href="https://devpost.com/software/codementor-0ix5lu"><img src="https://img.shields.io/badge/📝_Devpost-003E54?style=flat-square&logo=devpost"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🥈 Sestara
-**MEGA Hackathon 2026**
-
-<img src="https://img.shields.io/badge/🥈_SILVER_MEDAL-silver?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" />
-
-👥 **919 Participants**
-
-AI-powered adaptive learning platform with personalized curricula, mastery tracking, 20+ languages, built-in quizzes, flashcards, and AI study companion.
-
-**Tech:** `React` `TypeScript` `Supabase` `Wolfram` `Gemini`
-
-<p>
-<a href="https://github.com/VittoriaLanzo/sestara/"><img src="https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://sestara.lovable.app/"><img src="https://img.shields.io/badge/🌐_Live-00C2FF?style=flat-square&logo=vercel"/></a>
-<a href="https://youtu.be/8-aqG-For90"><img src="https://img.shields.io/badge/🎥_Demo-FF0000?style=flat-square&logo=youtube"/></a>
-</p>
-
-</td>
-</tr>
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>First30.ai</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Voice-guided emergency assistance for the critical first 30 minutes before professional help arrives</td></tr>
+<tr><td><code>STACK</code></td><td><code>React</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>ElevenLabs</code> · <code>Edge Functions</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/harshitSingh1/First-30">repo</a> · <a href="https://preview--first-30-aid.lovable.app/">live</a> · <a href="https://devpost.com/software/first30-ai">devpost</a></td></tr>
 </table>
 
 <br/>
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🥈 Lumen
-**AETHRA Global Hackathon 2025**
-
-<img src="https://img.shields.io/badge/🥈_2nd_PLACE-blue?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" />
-
-👥 **297 Participants**
-
-AI accessibility Chrome extension instantly transforming web pages for dyslexia, low-vision, ADHD users using client-side Gemini Nano + Chrome AI APIs.
-
-**Tech:** `React` `TailwindCSS` `Gemini Nano` `Chrome AI`
-
-<p>
-<a href="https://github.com/harshitSingh1/Lumen-Extension"><img src="https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://youtu.be/HTWcvbUbuxc"><img src="https://img.shields.io/badge/🎥_Demo-FF0000?style=flat-square&logo=youtube"/></a>
-<a href="https://devpost.com/software/lumen-h1bma0"><img src="https://img.shields.io/badge/📝_Devpost-003E54?style=flat-square&logo=devpost"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🏅 CivicLens
-**AETHRA Global Pitchathon 2025**
-
-<img src="https://img.shields.io/badge/🏅_TOP_5-ff69b4?style=flat-square&logo=mapbox&logoColor=white&labelColor=0D1117" />
-
-👥 **197 Participants**
-
-AI-powered civic issue reporting platform. Snap a photo, AI categorizes it, authorities get real-time alerts. Built for transparent citizen-government communication.
-
-**Tech:** `React` `TypeScript` `TensorFlow` `MongoDB`
-
-<p>
-<a href="https://github.com/harshitSingh1/CivicLens"><img src="https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://civiclens-frontend.onrender.com/"><img src="https://img.shields.io/badge/🌐_Live-00C2FF?style=flat-square&logo=render"/></a>
-<a href="https://youtu.be/2bn2nqr2lxc"><img src="https://img.shields.io/badge/🎥_Demo-FF0000?style=flat-square&logo=youtube"/></a>
-</p>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🥇 BreakBuddy
-**Learn2Build 2024 & Concordia CS**
-
-<img src="https://img.shields.io/badge/🥇_WINNER+🥈_RUNNER--UP-brightgreen?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0D1117" />
-
-👥 **511 + 61 Participants**
-
-Chrome extension turning the homepage into a productive break hub with AI chat, games, quizzes, reminders, blogs, and task management.
-
-**Tech:** `JavaScript` `Chrome Extension` `AWS`
-
-<p>
-<a href="https://github.com/harshitSingh1/BreakBuddy"><img src="https://img.shields.io/badge/💻_Code-181717?style=flat-square&logo=github"/></a>
-<a href="https://main.d2onf8i510ljit.amplifyapp.com/"><img src="https://img.shields.io/badge/🌐_Live-00C2FF?style=flat-square&logo=amazonaws"/></a>
-<a href="https://youtu.be/L20wHn2k4wA"><img src="https://img.shields.io/badge/🎥_Demo-FF0000?style=flat-square&logo=youtube"/></a>
-</p>
-
-</td>
-</tr>
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>CodeMentor</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Progressive AI hints for competitive programming — guides without spoiling across 4 platforms</td></tr>
+<tr><td><code>STACK</code></td><td><code>Chrome MV3</code> · <code>JavaScript</code> · <code>OpenAI</code> · <code>Gemini</code> · <code>Claude</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/harshitSingh1/CodeMentor">repo</a> · <a href="https://devpost.com/software/codementor-0ix5lu">devpost</a></td></tr>
 </table>
 
-</details>
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>Lumen</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Chrome extension transforming any webpage into dyslexia-friendly, low-vision, and ADHD-friendly content</td></tr>
+<tr><td><code>STACK</code></td><td><code>Chrome AI</code> · <code>Gemini Nano</code> · <code>JavaScript</code> · <code>MV3</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
 
 <br/>
 
-<div align="center">
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>Sestara</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>AI curricula with mastery tracking and 20+ languages — democratizing private tutoring infrastructure</td></tr>
+<tr><td><code>STACK</code></td><td><code>AI</code> · <code>NLP</code> · <code>Education Platform</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
 
-### 🏅 Complete Hackathon Record
+<br/>
 
-| 🏆 Position | 🎪 Hackathon | 🚀 Project | 👥 Participants | 🔗 Links |
-|:-----------:|:------------|:-----------|:---------------:|:---------|
-| 🥇 Winner | StartupMed 2026 | First30.ai | 1,203 | [Code](https://github.com/harshitSingh1/First-30) · [Live](https://first-30-aid.lovable.app/) · [Demo](https://youtu.be/dxetHSCxAAc) |
-| 🥇 Winner | Next Byte Hacks 2026 | CodeMentor | 647 | [Code](https://github.com/harshitSingh1/CodeMentor) · [Demo](https://vimeo.com/1167086369) |
-| 🥈 Silver | MEGA Hackathon 2026 | Sestara | 919 | [Code](https://github.com/VittoriaLanzo/sestara/) · [Live](https://sestara.lovable.app/) · [Demo](https://youtu.be/8-aqG-For90) |
-| 🥈 2nd Place | AETHRA Global 2025 | Lumen | 297 | [Code](https://github.com/harshitSingh1/Lumen-Extension) · [Demo](https://youtu.be/HTWcvbUbuxc) |
-| 🏅 Top 5 | AETHRA Pitchathon 2025 | CivicLens | 197 | [Code](https://github.com/harshitSingh1/CivicLens) · [Live](https://civiclens-frontend.onrender.com/) · [Demo](https://youtu.be/2bn2nqr2lxc) |
-| 🥇 Winner | Learn2Build 2024 | BreakBuddy | 511 | [Code](https://github.com/harshitSingh1/BreakBuddy) · [Live](https://main.d2onf8i510ljit.amplifyapp.com/) · [Demo](https://youtu.be/L20wHn2k4wA) |
-| 🥈 Runner-up | Concordia CS 2024 | BreakBuddy | 61 | [Code](https://github.com/harshitSingh1/BreakBuddy) |
-| 🥇 Winner | American Allegiance of Education | CareerArk | 148 | [Code](https://github.com/NancyAanchal/CareerArk) · [Live](https://main--careerark.netlify.app/) · [Demo](https://youtu.be/27mLTRlMs_s) |
-| 🏅 Top 10 | InsightMed Hacks | Healthcare AI | 57 | [Code](https://github.com/shrutisaini01/Multiple-Disease-Detection) · [Live](https://prediction-app-shruti.streamlit.app/) · [Demo](https://youtu.be/eB0B1yEGJGw) |
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>CivicLens</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Report civic issues via photo and map pin; authorities broadcast hazard alerts to residents</td></tr>
+<tr><td><code>STACK</code></td><td><code>Full Stack</code> · <code>Maps</code> · <code>Civic Tech</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
 
-</div>
+<br/>
 
----
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>BreakBuddy</strong> · 3 members</td></tr>
+<tr><td><code>DESC</code></td><td>Chrome extension turning homepage into a hub for productive breaks — blogs, games, AI chat, to-do</td></tr>
+<tr><td><code>STACK</code></td><td><code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>Chrome Extension</code> · <code>NLP</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/harshitSingh1/BreakBuddy">repo</a> · <a href="https://devpost.com/software/breakbuddy-tvk1xd">devpost</a></td></tr>
+</table>
 
-<!-- =======================================================
-                    TECH ARSENAL
-======================================================= -->
-<h2 align="center">⚒️ Tech Arsenal</h2>
+<br/>
 
-<div align="center">
-  <h3>💻 Languages</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,php,html,css&perline=7" />
-  </p>
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>CareerArk</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Free AI career platform — recommendations, assessments, roadmaps, and resume reviews for all stages</td></tr>
+<tr><td><code>STACK</code></td><td><code>AI</code> · <code>Full Stack</code> · <code>Career Tech</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/software/career-ark">devpost</a></td></tr>
+</table>
 
-  <h3>🎨 Frontend</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite,figma&perline=5" />
-  </p>
+<br/>
 
-  <h3>⚙️ Backend & Cloud</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,aws,firebase,supabase,mongodb,mysql&perline=7" />
-  </p>
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>Healthcare AI</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>ML models predicting likelihood of Diabetes, Heart Disease, and Parkinson's Disease</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>Machine Learning</code> · <code>Scikit-learn</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
 
-  <h3>🤖 AI & Machine Learning</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" />
-  </p>
-  <sub>Gemini AI • OpenAI • LangChain • RAG • Prompt Engineering • ElevenLabs • Wolfram</sub>
+<br/>
 
-  <h3>🛠️ DevOps & Tools</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,netlify&perline=8" />
-  </p>
+<table width="100%">
+<tr><td width="100"><code>WINNER</code></td><td><strong>HealthMentor AI</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Vector-search medical record advisor delivering expert-level clinical insights for underserved regions</td></tr>
+<tr><td><code>STACK</code></td><td><code>Next.js</code> · <code>FastAPI</code> · <code>MongoDB Atlas</code> · <code>Vertex AI</code> · <code>Docker</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/software/healthmentor-ai">devpost</a></td></tr>
+</table>
 
-  <br/>
+<br/>
 
-  ### 🌟 Focus Areas
+<sub>Additional hackathon projects</sub>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>SpendSense</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Real-time visibility into AI and cloud spend — per tenant, per feature, per minute</td></tr>
+<tr><td><code>STACK</code></td><td><code>Cloud</code> · <code>FinOps</code> · <code>AI Cost Tracking</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>Green Cloud Auto-Resolver</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>GitLab agent using Vertex AI to autonomously fix UI bugs and enforce green software standards</td></tr>
+<tr><td><code>STACK</code></td><td><code>Vertex AI</code> · <code>GitLab</code> · <code>Green Software</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>CareForAll</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>AI health and mental wellness support with daily check-ins, pattern alerts, and expert-verified guidance</td></tr>
+<tr><td><code>STACK</code></td><td><code>AI</code> · <code>Healthcare</code> · <code>Mental Wellness</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>NagrikAI</strong> · 2 members</td></tr>
+<tr><td><code>DESC</code></td><td>Agentic AI copilot helping Indian citizens access government schemes in their own language</td></tr>
+<tr><td><code>STACK</code></td><td><code>Agentic AI</code> · <code>NLP</code> · <code>Civic Tech</code> · <code>Multilingual</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>GenConnect</strong> · 2 members</td></tr>
+<tr><td><code>DESC</code></td><td>Connects teenagers with senior citizens for mentorship, skill-sharing, and companionship</td></tr>
+<tr><td><code>STACK</code></td><td><code>Full Stack</code> · <code>Social Platform</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>FarmingNow</strong> · 2 members</td></tr>
+<tr><td><code>DESC</code></td><td>NASA-data-driven agriculture — crop recommendations, soil analysis, irrigation, weather, pest control</td></tr>
+<tr><td><code>STACK</code></td><td><code>NASA APIs</code> · <code>AI</code> · <code>Agriculture</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>Daily Detective</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Interactive riddles on Reddit via full-stack Devvit app with web views, Redis, and auto-scheduling</td></tr>
+<tr><td><code>STACK</code></td><td><code>Devvit</code> · <code>Redis</code> · <code>Reddit API</code> · <code>Full Stack</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>Kiroscope</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Real-time codebase architecture visualization with AI-powered structural insights</td></tr>
+<tr><td><code>STACK</code></td><td><code>AI</code> · <code>Developer Tools</code> · <code>Visualization</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>Baseline Upgrade CLI</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Scans codebases for Baseline-approved modernization alternatives with global progress tracking</td></tr>
+<tr><td><code>STACK</code></td><td><code>CLI</code> · <code>JavaScript</code> · <code>Developer Tools</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>GetRichify</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>AI startup idea generator transforming ordinary concepts into exaggerated business opportunities</td></tr>
+<tr><td><code>STACK</code></td><td><code>AI</code> · <code>GenAI</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>Auto-Assist Mobility Chair</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Smart semi-automated wheelchair with shock-absorbing suspension, ergonomics, and CAD-optimized stability</td></tr>
+<tr><td><code>STACK</code></td><td><code>CAD</code> · <code>Hardware</code> · <code>Accessibility</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>BUILT</code></td><td><strong>DeepSea Portfolio</strong> · Team</td></tr>
+<tr><td><code>DESC</code></td><td>Immersive marine-themed developer portfolio with interactive sea creatures and functional terminal</td></tr>
+<tr><td><code>STACK</code></td><td><code>Frontend</code> · <code>Animation</code> · <code>Interactive</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://devpost.com/sharshitsingh007">devpost</a></td></tr>
+</table>
+
+<br/>
+
+<sub>Shipped systems — production repositories</sub>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>AegisOps</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Production incidents require manual diagnosis across K8s, logs, and runbooks under time pressure</td></tr>
+<tr><td><code>INSIGHT</code></td><td>LangGraph ReAct agent with episodic, semantic, and procedural memory plus Slack-gated remediation</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>LangGraph</code> · <code>FastAPI</code> · <code>Ollama</code> · <code>Kubernetes</code> · <code>pgvector</code> · <code>Redis</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/AegisOps-DRI-Autonomous-SRE-Agent">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>Open SWE</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Engineering orgs need internal coding agents connected to their systems with safety boundaries</td></tr>
+<tr><td><code>INSIGHT</code></td><td>Open-source async coding agent on LangGraph — sandboxes, Slack and Linear triggers, automatic PRs</td></tr>
+<tr><td><code>STACK</code></td><td><code>TypeScript</code> · <code>LangGraph</code> · <code>Deep Agents</code> · <code>GitHub OAuth</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/open-swe">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>AgenticDB</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Non-technical users cannot query databases without SQL expertise</td></tr>
+<tr><td><code>INSIGHT</code></td><td>Human-verified natural language database interface with guardrails</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>NLP</code> · <code>Database</code> · <code>Agentic AI</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/AgenticDB-Human-Verified-Natural-Language-Database-Interface">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>RealEstate Agent</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Property search lacks intelligent conversational filtering and recommendation</td></tr>
+<tr><td><code>INSIGHT</code></td><td>AI agent for real estate discovery with natural language property queries</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>AI Agent</code> · <code>Real Estate</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/RealEstate_Agent">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>TravelGraphRAG</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Travel planning requires synthesizing scattered information across sources</td></tr>
+<tr><td><code>INSIGHT</code></td><td>GraphRAG pipeline for intelligent travel recommendations and itinerary building</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>RAG</code> · <code>Graph</code> · <code>LangChain</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/TravelGraphRAG">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>ZoneWatch</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Video surveillance needs real-time object detection with custom zone triggers</td></tr>
+<tr><td><code>INSIGHT</code></td><td>Multi-model pipeline — YOLOv5, YOLOv8, Detectron2 with polygon zone monitoring</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>YOLOv8</code> · <code>Detectron2</code> · <code>Computer Vision</code> · <code>CUDA</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/ZoneWatch">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>ResuMatchAI</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Job seekers struggle to tailor resumes to specific role requirements</td></tr>
+<tr><td><code>INSIGHT</code></td><td>AI-powered resume matching and optimization against job descriptions</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>NLP</code> · <code>AI</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/ResuMatchAI">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>HabitatAgent</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Smart home systems lack intelligent autonomous decision-making</td></tr>
+<tr><td><code>INSIGHT</code></td><td>AI agent for habitat automation with contextual awareness</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>AI Agent</code> · <code>IoT</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/HabitatAgent">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>Lead Auto-Qualification Agent</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Sales teams waste time on unqualified leads</td></tr>
+<tr><td><code>INSIGHT</code></td><td>Django plus agentic AI pipeline for autonomous lead scoring and qualification</td></tr>
+<tr><td><code>STACK</code></td><td><code>Django</code> · <code>Python</code> · <code>Agentic AI</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/Lead-Auto-Qualification-Agent">repo</a></td></tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr><td width="100"><code>ACTIVE</code></td><td><strong>ReAct RAG</strong></td></tr>
+<tr><td><code>PROBLEM</code></td><td>Standard RAG lacks reasoning loops for complex multi-step retrieval</td></tr>
+<tr><td><code>INSIGHT</code></td><td>ReAct-pattern retrieval augmented generation with tool-use reasoning</td></tr>
+<tr><td><code>STACK</code></td><td><code>Python</code> · <code>RAG</code> · <code>ReAct</code> · <code>LangChain</code></td></tr>
+<tr><td><code>LINKS</code></td><td><a href="https://github.com/aitch-cmd/ReAct_RAG">repo</a></td></tr>
+</table>
+
+<br/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+<br/>
+
+<sub>SECTION 02</sub>
+
+#### Engineering Capabilities
+
+<br/>
+
+##### AI Engineering
+
+`Python` · `LangGraph` · `LangChain` · `RAG` · `ReAct` · `Agentic AI` · `FastAPI` · `Ollama` · `PyTorch` · `TensorFlow` · `Vertex AI` · `Gemini` · `OpenAI` · `Claude` · `NLP` · `Embeddings` · `pgvector`
+
+<br/>
+
+##### Full Stack Systems
+
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Django` · `Flask` · `REST APIs` · `Supabase` · `PostgreSQL` · `MongoDB` · `Redis` · `SQL`
+
+<br/>
+
+##### Cloud Infrastructure
+
+`Google Cloud` · `Docker` · `Kubernetes` · `CI/CD` · `VM Deployment` · `Edge Functions` · `Microservices` · `System Design`
+
+<br/>
+
+##### Developer Tools
+
+`Chrome Extensions` · `Manifest V3` · `CLI Tools` · `GitHub Apps` · `MCP Protocol` · `Devvit` · `API Design` · `SDK Integration`
+
+<br/>
+
+##### Chrome Extensions
+
+`BreakBuddy` · `CodeMentor` · `Lumen` · `JavaScript` · `Chrome AI APIs` · `Gemini Nano` · `Content Scripts` · `Service Workers`
+
+<br/>
+
+##### Computer Vision
+
+`YOLOv5` · `YOLOv8` · `Detectron2` · `OpenCV` · `CUDA` · `Object Detection` · `Video Annotation` · `Instance Segmentation`
+
+<br/>
+
+##### Competitive Programming
+
+`C++` · `Python` · `Data Structures` · `Algorithms` · `Codeforces` · `LeetCode` · `CodeChef` · `HackerRank`
+
+<br/>
+
+##### Open Source
+
+`Contributions` · `mem0` · `Community Projects` · `Documentation` · `MIT License`
+
+<br/>
+
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+<br/>
+
+<sub>SECTION 03</sub>
+
+#### GitHub Analytics
+
+<br/>
+
+<p align="center">
   <table>
     <tr>
-      <td align="center">🤖 AI Products</td>
-      <td align="center">🌐 Full Stack Apps</td>
-      <td align="center">🧩 Chrome Extensions</td>
-      <td align="center">🎓 EdTech</td>
-      <td align="center">❤️ Healthcare AI</td>
-      <td align="center">🏛 Civic Tech</td>
-      <td align="center">💻 Dev Tools</td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=aitch-cmd&show_icons=false&hide_border=true&title_color=1a1a1a&text_color=525252&icon_color=3b6fa8&bg_color=ffffff&count_private=false" alt="GitHub stats for aitch-cmd" height="165"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aitch-cmd&hide_border=true&background=ffffff&stroke=e5e5e5&ring=3b6fa8&fire=3b6fa8&currStreakLabel=1a1a1a&sideLabels=525252&currStreakNum=1a1a1a&sideNums=525252&dates=525252" alt="GitHub streak for aitch-cmd" height="165"/>
+      </td>
     </tr>
   </table>
-</div>
+</p>
 
----
-
-<!-- =======================================================
-                    GITHUB ANALYTICS
-======================================================= -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitSingh1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophies"/>
-  
-  <br/><br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitSingh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitSingh1&theme=tokyonight&hide_border=true" alt="Streak"/>
-  
-  <br/><br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitSingh1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Languages"/>
-  
-  <br/><br/>
-  
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitSingh1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
----
-
-<!-- =======================================================
-                    SNAKE & QUOTES
-======================================================= -->
-<div align="center">
-  <h2>✍️ Developer Wisdom</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  
-  <br/><br/>
-  
-  <h2>🐍 Contribution Snake</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitSingh1/harshitSingh1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitSingh1/harshitSingh1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshitSingh1/harshitSingh1/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
-<!-- =======================================================
-                    LET'S CONNECT
-======================================================= -->
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-  <p>
-    <b>I'm always excited to collaborate on AI, Full-Stack, Developer Tools, and Open Source projects.</b>
-  </p>
-  
-  <p>
-    <a href="mailto:sharshitsingh007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/harshit-singh-06834221b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/harshitSingh1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://medium.com/@sharshitsingh007"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  </p>
-
-  <br/>
-
-  ### 💬 Ask Me About
-  `AI` `Full Stack` `Chrome Extensions` `Hackathons` `Competitive Programming` `System Design` `Open Source`
-
-  <br/>
-  
-  ### ⚡ Currently
-  🚀 Building AI Products &nbsp;|&nbsp; 🤖 Exploring AI Agents & RAG &nbsp;|&nbsp; 🌱 Learning MCP & LangGraph
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aitch-cmd/harshitneverdebugs/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph for aitch-cmd" width="100%"/>
+</p>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-  
-  <br/>
-  
-  <img src="https://visitcount.itsvg.in/api?id=harshitSingh1&icon=5&color=6" alt="Profile Views"/>
-  
-  ### ⭐ If you like my work, consider following my journey!
-  **Let's build something impactful together.** 🚀
-</div>
+<img src="assets/divider.svg" alt="" width="100%"/>
+
+<br/>
+
+<p align="center">
+  <img src="assets/footer-spec.svg" alt="Document closure — Engineering System Specification" width="100%"/>
+</p>
