@@ -336,35 +336,6 @@ Chrome extension turning the homepage into a productive break hub with AI chat, 
 
 ---
 
-<!-- =======================================================
-                    LET'S CONNECT
-======================================================= -->
-<h2 align="center">🤝 Let's Connect</h2>
-
-<div align="center">
-  <p>
-    <b>I'm always excited to collaborate on AI, Full-Stack, Developer Tools, and Open Source projects.</b>
-  </p>
-  
-  <p>
-    <a href="mailto:sharshitsingh007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/harshit-singh-06834221b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/harshitSingh1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://medium.com/@sharshitsingh007"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  </p>
-
-  <br/>
-
-  ### 💬 Ask Me About
-  `AI` `Full Stack` `Chrome Extensions` `Hackathons` `Competitive Programming` `System Design` `Open Source`
-
-  <br/>
-  
-  ### ⚡ Currently
-  🚀 Building AI Products &nbsp;|&nbsp; 🤖 Exploring AI Agents & RAG &nbsp;|&nbsp; 🌱 Learning MCP & LangGraph
-
-</div>
-
 <br/>
 
 <div align="center">
